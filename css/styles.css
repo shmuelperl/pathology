@@ -100,7 +100,19 @@ text-align: left;
   padding: 50px 0 50px 0;
 }
 
+.Publications {
+  margin: auto 25%;
+  text-align: left;
+  line-height: 2;
+}
+
 .awards {
+  margin: auto 25%;
+  text-align: left;
+  line-height: 2;
+}
+
+.activities {
   margin: auto 25%;
   text-align: left;
   padding-bottom: 80px;
